@@ -1,0 +1,25 @@
+{
+  "name": "web2-nodejs",
+  "version": "1.0.0",
+  "description": "생활코딩 Web2-Node.js를 학습하는 레포",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeseong-int/Web2_Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeseong-int/Web2_Node.js/issues"
+  },
+  "homepage": "https://github.com/Hyeseong-int/Web2_Node.js#readme",
+  "dependencies": {
+    "sanitize-html": "^2.4.0"
+  }
+}
